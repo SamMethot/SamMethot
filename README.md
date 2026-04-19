@@ -1,20 +1,6 @@
-![Banner](https://raw.githubusercontent.com/SamMethot/showcase/main/assets/banner.png)
+![Banner](assets/banner.png)
 
 ### Lead developer at Highrise RP. I build FiveM resources that run at 0ms idle and don't break at 80 players.
-
-## Featured work
-
-A few things I've shipped recently. Full case studies in the [showcase repo](https://github.com/SamMethot/showcase).
-
-| | | |
-|---|---|---|
-| [![Skill Tree](https://raw.githubusercontent.com/SamMethot/showcase/main/assets/projects/skilltree/screenshot-1.png)](https://github.com/SamMethot/showcase/blob/main/projects/skilltree.md) | [![Armory](https://raw.githubusercontent.com/SamMethot/showcase/main/assets/projects/armory/screenshot-1.png)](https://github.com/SamMethot/showcase/blob/main/projects/armory.md) | [![Blackmarket](https://raw.githubusercontent.com/SamMethot/showcase/main/assets/projects/blackmarket/screenshot-1.png)](https://github.com/SamMethot/showcase/blob/main/projects/blackmarket.md) |
-| **[Integrated Skill Tree](https://github.com/SamMethot/showcase/blob/main/projects/skilltree.md)** | **[Armory with Convoys](https://github.com/SamMethot/showcase/blob/main/projects/armory.md)** | **[Blackmarket](https://github.com/SamMethot/showcase/blob/main/projects/blackmarket.md)** |
-| Admin panel, logs, cross-resource, 0ms idle. | Timed convoy events drop weapons on the map. | Illegal item shop integrated into the kartik-mdt laptop. |
-
-## Tools and open source
-
-Coming soon: open source dev tools for FiveM. Watch this space.
 
 ## About me
 
@@ -24,6 +10,7 @@ Samuel Methot, Canadian developer based in Quebec. Graduated from Cégep de Sain
 
 - Shipping new systems for Highrise RP v2 (armory convoys, booster packs, blackmarket)
 - Finishing the clinical simulator project for my internship
+- Building a full showcase site to present my work in detail
 - Open source dev tools for the FiveM community coming soon
 
 ## Tech stack
